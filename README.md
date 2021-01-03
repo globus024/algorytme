@@ -1,1 +1,1 @@
-# algorytme
+# algorytme from python
